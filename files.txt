@@ -1,0 +1,4 @@
+Hello,I am Shri Harsha
+This project uses File handeling concept.
+I have used Make files also,
+File  handeling helps one to write into,read from and append into a file.
